@@ -1,2 +1,2 @@
 # AdafruitRobot
-Instruction page for sheryl's Adafruit Robot
+Instruction page for my Adafruit Robot
